@@ -50,3 +50,23 @@ h1 {
     font-family: "Montserrat-Light";
     font-size: 1.2rem;
 }
+
+
+/* FontAwesome */
+
+.fa-solid {
+    float: top;
+    color: #EC7272;
+    font-size: 2rem;
+}
+
+.fa-solid:hover {
+    color: #ff4c68;
+}
+
+
+/* Features */
+
+.feat {
+    padding: 25px;
+}
