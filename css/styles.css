@@ -14,9 +14,18 @@ h1 {
     padding-bottom: 1.25rem;
 }
 
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
 }
 
 p {
@@ -40,8 +49,6 @@ p {
     transform: rotate(20deg);
     padding-top: 50px;
     padding-left: 50px;
-    /* position: absolute;
-    top: 2px; */
 }
 
 
@@ -67,7 +74,7 @@ p {
 
 .fa-solid {
     float: top;
-    color: #EC7272;
+    color: #ef8172;
     font-size: 2rem;
 }
 
@@ -80,4 +87,34 @@ p {
 
 .feat {
     padding: 25px;
+}
+
+
+/* Testimonials */
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.testimonail-image {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+/* Press */
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
 }
