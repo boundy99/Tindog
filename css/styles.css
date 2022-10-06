@@ -124,14 +124,15 @@ p {
 }
 
 
-/* Subscription */
+/* Pricing section */
 
 #pricing {
-    font-family: 'Ubuntu', sans-serif;
+    padding: 100px;
     text-align: center;
 }
 
-.card {
-    padding: 5px;
-    margin: 2px;
+.card {}
+
+.pricing-column {
+    padding: 3% 2%;
 }
