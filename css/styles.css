@@ -122,3 +122,16 @@ p {
     width: 15%;
     margin: 20px 20px 50px;
 }
+
+
+/* Subscription */
+
+#pricing {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+.card {
+    padding: 5px;
+    margin: 2px;
+}
