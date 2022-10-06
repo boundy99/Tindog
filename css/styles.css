@@ -48,7 +48,7 @@ p {
     width: 60%;
     transform: rotate(20deg);
     position: absolute;
-    margin: 5% 30%;
+    margin: 5% 15%;
 }
 
 @media (max-width: 993px) {
@@ -82,7 +82,7 @@ p {
 
 /* FontAwesome */
 
-.fa-solid {
+.fonts {
     float: top;
     color: #ef8172;
     font-size: 2.5rem;
@@ -149,4 +149,31 @@ p {
 
 .pricing-column {
     padding: 3% 2%;
+}
+
+
+/* Call to Action */
+
+#cta {
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+    padding: 10% 2%;
+}
+
+.footer-button {
+    margin-top: 8%;
+    margin: 2%;
+}
+
+
+/* Footer */
+
+#footer {
+    margin-top: 7%;
+    text-align: center;
+}
+
+.links {
+    margin: 10px;
 }
