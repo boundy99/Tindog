@@ -33,7 +33,7 @@ p {
 }
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 3% 15% 7%;
 }
 
 .row {
@@ -45,10 +45,10 @@ p {
 }
 
 .iPhone {
-    width: 80%;
+    width: 60%;
     transform: rotate(20deg);
-    padding-top: 50px;
-    padding-left: 50px;
+    position: absolute;
+    margin: 30%;
 }
 
 
@@ -87,6 +87,12 @@ p {
 
 .feat {
     padding: 25px;
+}
+
+#features {
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
 }
 
 
@@ -130,8 +136,6 @@ p {
     padding: 100px;
     text-align: center;
 }
-
-.card {}
 
 .pricing-column {
     padding: 3% 2%;
