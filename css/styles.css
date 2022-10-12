@@ -13,6 +13,10 @@ h6 {
     font-weight: bold;
 }
 
+.container-fluid {
+    padding: 7% 15%;
+}
+
 
 /* Heading */
 
@@ -31,14 +35,17 @@ p {
     color: #8f8f8f
 }
 
+
+/* Title */
+
 #title {
     background-color: #ff4c68;
     color: white;
     text-align: left;
 }
 
-.container-fluid {
-    padding: 7% 15%;
+#title.container-fluid {
+    padding: 3% 15% 7%;
 }
 
 .row {
@@ -101,7 +108,6 @@ p {
 /* Features */
 
 #features {
-    padding: 7% 15%;
     background-color: white;
     position: relative;
 }
