@@ -1,4 +1,4 @@
-How to run this project
-#
+# how to start the project
 
-This project repliactes tinder UI. The UI has been implemented in HTML, design in CSS and beautified with Bootstrap. 
+1. First download the folder 
+2. Open the HTML file index.html
